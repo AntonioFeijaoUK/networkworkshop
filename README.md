@@ -18,7 +18,7 @@ _**Note: Please delete the default VPC to remove the clutter**_
 cd / 
 sudo ./connection-setup.sh <VPN-Endpoint-IP> <secret>
 
-ex: sudo ./connection-setup.sh 1.1.1.1 Amazon123
+example: sudo ./connection-setup.sh 1.1.1.1 Amazon123
 ```
 
 4. Verify ipsec service and tunnel status.
