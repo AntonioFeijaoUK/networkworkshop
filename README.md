@@ -5,4 +5,6 @@ The cloudformation template sets up intial VPCs and instances as depicted below.
 
 _**Please delete the default VPC to remove the clutter**_
 
+![Initial Setup](/images/initial.png)
+
 
